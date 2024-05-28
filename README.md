@@ -1,2 +1,5 @@
-Maria Lais Macruz 
-3 ano do ensino medio 
+Bem vindos ao meu perfil 
+Meu nome é Maria Lais 
+Estou estudando na Alura
+Estou me desenvolvendo na linguagem JavaScript
+Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
